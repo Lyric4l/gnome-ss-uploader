@@ -2,6 +2,8 @@
 
 A bash script for securely transferring files to a remote server via SCP, generating a shareable URL, and automatically cleaning up the server after a specified duration.
 
+NOTE: I might have some small errors in Bash scripting since I'm new to it. If you think the code could work more effectively, please update it. I would be happy to apply your updates.
+
 ## Prerequisites
 
 - [Expect](https://linux.die.net/man/1/expect) 🧑‍💻
