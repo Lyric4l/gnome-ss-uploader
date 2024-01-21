@@ -1,7 +1,5 @@
 # 🌐 Secure File Transfer and Cleanup Script 🚀
 
-![GitHub](https://img.shields.io/github/license/lyric4l/gnome-ss-uploader)
-
 A bash script for securely transferring files to a remote server via SCP, generating a shareable URL, and automatically cleaning up the server after a specified duration.
 
 ## Prerequisites
