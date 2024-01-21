@@ -39,6 +39,7 @@ Verify Storage Settings:
 
 Edit the downloaded script:
 
+    Put script to your home folder.
     Replace the placeholder 'type_your_server_password_here' with your server password.
     Adjust the 'sunucu_bilgisi="user@server_adress:/path/to/save"' part as needed.
     Modify the 'dosya_url="https://domain.com/$dosya_adi"' part accordingly.
